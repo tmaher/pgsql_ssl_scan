@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    excon (0.16.10)
+    highline (1.6.15)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  excon
+  highline
